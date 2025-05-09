@@ -28,7 +28,7 @@ To collect TV listings from Flipkart, I used:
   
 
 ## 🛠️ Process & Methodology
-📥 Data Collection <a htef = "https://github.com/tejareddy45/AC-Analysis-----Web-Scraping/blob/main/AC_DATA.ipynb">(AC_DATA.ipynb)</a>
+📥 Data Collection <a href = "https://github.com/tejareddy45/AC-Analysis-----Web-Scraping/blob/main/AC_DATA.ipynb">(AC_DATA.ipynb)</a>
 - Used `Selenium` and `BeautifulSoup` to scrape product details from Flipkart.
 
 - Extracted data includes: brand, cooling capacity, star rating, annual power usage, room size, warranty, price, customer ratings, and reviews.
@@ -67,7 +67,7 @@ This dataset contains structured information about air conditioners listed on Fl
 - ***no_of_rating:***	Number of customer ratings (e.g., "2,134 Ratings")
 - ***Reviews:***	Number of customer reviews (e.g., "356 Reviews")
 
-- ## 🧠 Key Insights
+## 🧠 Key Insights
 - 5-star rated ACs tend to receive higher average customer ratings.
 
 - Some mid-priced brands receive better reviews than high-end ones.
@@ -78,11 +78,11 @@ This dataset contains structured information about air conditioners listed on Fl
 By scraping and analyzing real Flipkart data, this project demonstrates how online reviews and product specifications can be used to evaluate air conditioners effectively. The insights help both customers and sellers in understanding product performance and consumer preferences.
 
 ## 🔮 Future Improvements
-Scrape additional attributes like inverter technology, noise level, and delivery time.
+- Scrape additional attributes like inverter technology, noise level, and delivery time.
 
-Integrate review sentiment analysis using NLP.
+- Integrate review sentiment analysis using NLP.
 
-Build an interactive Streamlit dashboard for consumer-facing product comparisons.
+- Build an interactive Streamlit dashboard for consumer-facing product comparisons.
 
-Store data in a structured database for scheduled updates.
+- Store data in a structured database for scheduled updates.
 
