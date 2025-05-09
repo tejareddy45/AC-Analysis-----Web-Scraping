@@ -51,10 +51,24 @@ To collect TV listings from Flipkart, I used:
 
 - Influence of features like star rating and cooling capacity on customer satisfaction
 
-- <a href = "https://github.com/tejareddy45/AC-Analysis-----Web-Scraping/blob/main/AC_data.csv">📦 Dataset</a>
+## 📂 Data Storage:
+Extracted data was stored in CSV format for further processing.
+**Dataset Description**
+This dataset contains structured information about air conditioners listed on Flipkart, one of India's leading e-commerce platforms. The data was collected through web scraping and is used for analysis and insights on product performance, customer feedback, and pricing.
+- <a href = "https://github.com/tejareddy45/AC-Analysis-----Web-Scraping/blob/main/AC_data.csv">Dataset</a>
+- ***Brand Name:*** Name of the air conditioner manufacturer (e.g., LG, Samsung)
+- ***Cooling_Capacity:***	The cooling capacity of the AC, usually in tons (e.g., "1.5 Ton")
+- ***Star_Rating:***	Energy efficiency rating (e.g., "5 Star", "3 Star")
+- ***Annual_power_usage:***	Power consumption in a year (typically in kWh/year)
+- ***Room_Size:***	Recommended room size for the AC (e.g., "Up to 150 sq ft")
+- ***Warranty:***	Warranty period in years
+- ***Price:***	Selling price of the AC (may need conversion to numeric)
+- ***Ratings:***	Average customer rating (e.g., 4.2 out of 5)
+- ***no_of_rating:***	Number of customer ratings (e.g., "2,134 Ratings")
+- ***Reviews:***	Number of customer reviews (e.g., "356 Reviews")
 
 - ## 🧠 Key Insights
--5-star rated ACs tend to receive higher average customer ratings.
+- 5-star rated ACs tend to receive higher average customer ratings.
 
 - Some mid-priced brands receive better reviews than high-end ones.
 
